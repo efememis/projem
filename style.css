@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffe4e1;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.buttons button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#yes {
+    background-color: green;
+    color: white;
+}
+
+#no {
+    background-color: red;
+    color: white;
+    position: absolute;
+}
