@@ -10,6 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     document.getElementById("yes").addEventListener("click", function () {
-        alert("Seni seviyorum! ❤️");
+        alert("tebrikler doğru seçim Busecim ❤️");
     });
 });
